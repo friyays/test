@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x12148bf691c5f1691660fb632b3d87c289e951a4",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x12148bf691c5f1691660fb632b3d87c289e951a4",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "Friyays",
+  "SYMBOL": "FRIYAY",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 990000000000000000,
+  "DISPLAY_COST": 99,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/friyays-nft",
+  "SHOW_BACKGROUND": true
+}
